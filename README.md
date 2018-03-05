@@ -1,5 +1,5 @@
 # PythonArray
-配列
+リスト（配列）
 
 ## 処理
 配列の内容をfor文を使って出力します。
@@ -7,8 +7,8 @@
 ## コード
 ```
 team = ["佐藤","鈴木","田中","岸田","有森"]
-for i in team:
-    print(i + "さん")
+for name in team:
+    print(name + "さん")
 ```
 
 ## 出力結果  
